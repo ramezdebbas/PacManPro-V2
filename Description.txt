@@ -1,0 +1,5 @@
+After seeing the reviews of the game, it was clear that people wanted more difficulty and also few other features. So in this major release i have added this:
+
+1- Sound
+2- Added difficulty with more enemies and expanded level
+3- Parking zones where pacman can hide and stay for a while to avoid enemies
